@@ -3,7 +3,7 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
-
+<h1></h1>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
